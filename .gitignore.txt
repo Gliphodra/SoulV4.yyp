@@ -1,0 +1,11 @@
+# GameMaker generated files to ignore
+.yyc/
+*.yyz
+__GMCACHE__/
+.idea/
+*.log
+*.tmp
+*.dmp
+*.sublime-*
+.DS_Store
+Thumbs.db
